@@ -1,0 +1,6 @@
+{
+  "name": "Thí nghiệm ảo: Li, Na, K – V4",
+  "description": "Mô phỏng số thí nghiệm hóa học ảo: Li, Na, K tác dụng với nước, chlorine và oxygen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
